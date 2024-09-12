@@ -39,7 +39,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{F333ADF6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint0.Task5.V0", "Tyuiu.KalashnikovPI.Sprint0.Task5.V0\Tyuiu.KalashnikovPI.Sprint0.Task5.V0.csproj", "{E13BFCB1-9C76-42AB-B34F-A5CAF9D0D7F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Lib", "Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Lib\Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Lib.csproj", "{25472BF1-BEE8-4C2F-BBF4-3BEE4ABC405D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint0.Task5.V1.Lib", "Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Lib\Tyuiu.KalashnikovPI.Sprint0.Task5.V1.Lib.csproj", "{25472BF1-BEE8-4C2F-BBF4-3BEE4ABC405D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Test", "Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Test\Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Test.csproj", "{6E294246-C841-4427-8AAF-683BB532497B}"
 EndProject
