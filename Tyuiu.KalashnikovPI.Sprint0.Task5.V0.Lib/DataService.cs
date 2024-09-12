@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.KalashnikovPI.Sprint0.Task5.V1.Lib
+﻿namespace Tyuiu.KalashnikovPI.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {
